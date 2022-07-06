@@ -19,6 +19,7 @@ I prefer using Python for Data Science , Pandas, Numpy & React Native for web/mo
 ## 🚀 Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.kindpng.com/picc/m/19-191554_spss-ibm-spss-statistics-logo-hd-png-download.png" alt="SPSS" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://www.stata.com/stata16/i/stata-logo-16-blue.svg" alt="stata" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="python" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="Numpy" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="150" height="50"/> </a>  
