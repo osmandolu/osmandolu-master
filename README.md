@@ -7,11 +7,11 @@
 ### Who am I? 🛠 
 <p>
 
-- Data Scientist 
+- Data & Research Scientist 
 
-- Data Analyst
+- Expert on Data analysis & visualization
 
-- Research Scientist
+- Expert on machine learning & advanced level multivariate statistical models
 
 - Expert on mixed-methods research (qualitative & quantitative)
 
