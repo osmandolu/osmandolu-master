@@ -6,17 +6,17 @@
 
 ### What I'm using ? 🛠 
 
-I prefer using Python for Data Science , Pandas, Numpy & React Native for web/mobile front-end development.
+I prefer using Python for Data Science. I am also very good at academic data analysis tools such as R, SPSS, STATA.
 <br/>
 
-- Python, Pandas, , CSS3, Git, GitHub
+- Python,  Pandas, , CSS3, Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/odolu/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 
-## 🚀 Skills
+## 🚀 Technical Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.kindpng.com/picc/m/19-191554_spss-ibm-spss-statistics-logo-hd-png-download.png" alt="SPSS" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.stata.com/stata16/i/stata-logo-16-blue.svg" alt="stata" width="150" height="50"/> </a>  
