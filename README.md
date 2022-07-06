@@ -4,20 +4,20 @@
 <a href="github.io Linki" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=MuazV" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-## Who am I? 🛠 
+## I am good at:🛠 
 <p>
 
-- Data & Research Scientist 
+- Data Science
 
-- Expert on Data analysis & visualization
+- Data analysis & visualization
 
-- Expert on machine learning & advanced level multivariate statistical models
+- Machine learning & advanced level multivariate statistical models
 
-- Expert on mixed-methods research (qualitative & quantitative)
+- Mixed-methods research (qualitative & quantitative)
 
-- Expert on experimental design and survey research
+- Experimental design and survey research
 
-- 15 years of daa & research experience
+- 15 years of data & research experience
 
 
 ## What I'm using ? 🛠 
