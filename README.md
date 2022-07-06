@@ -5,25 +5,22 @@
 <!-- <p align="left">  </p> -->
 
 ### Who am I? 🛠 
-
-- Research Scientist
+<p>
 - Data Scientist 
 - Data Analyst
-- Expert on Mixex Methods Research
-- Expert on Experimental Design and Survey Research
+- Research Scientist
+- Expert on mixed-methods research (qualitative & quantitative)
+- Expert on experimental design and survey research
+- 15 years of research experience
 
 
 ### What I'm using ? 🛠 
-
-I prefer using Python for Data Science. However, I am also very good at academic data analysis tools such as R, SPSS, STATA.
-<br/>
-
-- Python,  Pandas, , CSS3, Git, GitHub
-
-- 💬 Ask  me about anything that you want to learn
-
+<p>
+- I prefer using Python for Data Science. 
+- I am also very good at academic data analytics tools such as R, SPSS, STATA.
+- 💬 Ask me about anything that you want to learn
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/odolu/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
-
+<br/>
 
 ## 🚀 Technical Skills
 <p>
