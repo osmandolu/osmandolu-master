@@ -58,7 +58,7 @@
  <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" alt="Slack" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="50"/> </a>
- <a href="#" target="_blank"> <img src="https://www.researchgate.net/publication/354310848/figure/fig1/AS:1063445994680320@1630556691321/Agile-Methodology-in-System-Development-source-Okeke2021-retrieved-from_Q640.jpg" alt="Agile" height="50"/> </a>
+ <a href="#" target="_blank"> <img src="https://itcgroup.io/Image%20for%20Blog/What%20is%20Agile%20methodology-/What%20is%20Agile%20methodology-.png" alt="Agile" height="50"/> </a>
 </p>
 
 
