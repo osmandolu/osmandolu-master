@@ -27,7 +27,7 @@ I prefer using Python for Data Science , Pandas, Numpy & React Native for web/mo
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="190" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="110" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite" width="120" height="50"/> </a>  
- <a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/484/694/png-clipart-logo-microsoft-sql-font-design-text-logo.png" alt="MSSQL" width="120" height="50"/> </a>  
+ <a href="#" target="_blank"> <img src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="MSSQL" width="120" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
