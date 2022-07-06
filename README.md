@@ -18,6 +18,7 @@ I prefer using Python for Data Science , Pandas, Numpy & React Native for web/mo
 
 ## 🚀 Skills
 <p>
+ <a href="#" target="_blank"> <img src="https://www.kindpng.com/picc/m/19-191554_spss-ibm-spss-statistics-logo-hd-png-download.png" alt="SPSS" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="python" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="Numpy" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="150" height="50"/> </a>  
@@ -25,7 +26,6 @@ I prefer using Python for Data Science , Pandas, Numpy & React Native for web/mo
  <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png" alt="Plotly" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="190" height="50"/> </a>  
- <a href="#" target="_blank"> <img src="https://www.kindpng.com/picc/m/19-191554_spss-ibm-spss-statistics-logo-hd-png-download.png" alt="SPSS" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="110" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite" width="120" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="MSSQL" width="140" height="50"/> </a>  
