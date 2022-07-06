@@ -4,8 +4,7 @@
 <a href="github.io Linki" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=MuazV" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-### Who am I? 🛠 
-<!-- <p align="left">  </p> -->
+## Who am I? 🛠 
 <p>
 
 - Data & Research Scientist 
@@ -21,7 +20,7 @@
 - 15 years of daa & research experience
 
 
-### What I'm using ? 🛠 
+## What I'm using ? 🛠 
 <p>
 
 - I prefer using Python for Data Science. 
