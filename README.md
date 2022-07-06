@@ -4,9 +4,18 @@
 <a href="github.io Linki" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=MuazV" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
+### Who am I? 🛠 
+
+- Research Scientist
+- Data Scientist 
+- Data Analyst
+- Expert on Mixex Methods Research
+- Expert on Experimental Design and Survey Research
+
+
 ### What I'm using ? 🛠 
 
-I prefer using Python for Data Science. I am also very good at academic data analysis tools such as R, SPSS, STATA.
+I prefer using Python for Data Science. However, I am also very good at academic data analysis tools such as R, SPSS, STATA.
 <br/>
 
 - Python,  Pandas, , CSS3, Git, GitHub
