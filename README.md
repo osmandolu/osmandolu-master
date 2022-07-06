@@ -9,7 +9,7 @@
 I prefer using Python for Data Science , Pandas, Numpy & React Native for web/mobile front-end development.
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub
+- Python, Pandas, , CSS3, Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -19,9 +19,10 @@ I prefer using Python for Data Science , Pandas, Numpy & React Native for web/mo
 ## 🚀 Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/> </a>  
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="150" height="50"/> </a>  
+ <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="Numpy" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="150" height="50"/> </a>  
- <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="150" height="50"/> </a>  
+ <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="150" height="50"/> </a>  
+ <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="50"/> </a>  
 <!--  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>  -->
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
