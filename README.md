@@ -25,7 +25,7 @@
 
 - I prefer using Python for Data Science. 
 
-- I am also very good at academic data analytics tools such as R, SPSS, STATA.
+- I am also very good at academic data analytics tools such as R, SPSS, STATA. 
 
 - 💬 Ask me about anything that you want to learn
 
@@ -67,3 +67,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=osmandolu&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmandolu&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmandolu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
