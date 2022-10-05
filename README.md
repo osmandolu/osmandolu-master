@@ -44,7 +44,7 @@
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="Numpy" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://keras.io/img/logo.png" alt="Keras" width="150" height="50"/> </a>  
- <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/171/176/png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange.png"  alt="TensorFlow" width="150" height="50"/> </a>  
+ <a href="#" target="_blank"> <img src="https://quintagroup.com/blog/blog-images/machine-learning-libraries/tensorflow.png/tensorflow.png"  alt="TensorFlow" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png" alt="Plotly" width="150" height="50"/> </a>  
