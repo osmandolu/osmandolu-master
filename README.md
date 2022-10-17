@@ -9,7 +9,11 @@
 
 - Data Science
 
-- Machine learning, Deep learning & advanced level predictive models
+- Machine learning
+
+- Deep learning & Neural Networks (ANN, CNN, RNN)
+
+- Natural Language Processing (NLP)
 
 - Time series & forecasting 
 
@@ -29,7 +33,7 @@
 
 - I prefer using Python for Data Science. 
 
-- I am also very good at academic data analytics tools such as R, SPSS, STATA. 
+- I am also very good at academic data analytics tools such as SPSS, STATA, SQL, and Tableau. 
 
 - 💬 Ask me about anything that you want to learn
 
